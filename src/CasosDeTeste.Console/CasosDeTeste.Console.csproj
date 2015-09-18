@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Estado\Estado.cs" />
+    <Compile Include="Estado\EstadoUrl.cs" />
+    <Compile Include="Estado\EstadoUrlRepository.cs" />
+    <Compile Include="Identificacao\Identificacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
